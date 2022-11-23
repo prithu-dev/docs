@@ -1,8 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Prithu App's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
+**Pirthu App** is an internal software for Prithu Homes.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
@@ -19,4 +18,7 @@ Contents
 .. toctree::
 
    usage
+
    api
+
+   helpers
